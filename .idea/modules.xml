@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-api-common/cloud-api-common.iml" filepath="$PROJECT_DIR$/cloud-api-common/cloud-api-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-client3377/cloud-config-client3377.iml" filepath="$PROJECT_DIR$/cloud-config-client3377/cloud-config-client3377.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-customer-order81/cloud-customer-order81.iml" filepath="$PROJECT_DIR$/cloud-customer-order81/cloud-customer-order81.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider/cloud-provider.iml" filepath="$PROJECT_DIR$/cloud-provider/cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cloud2021.iml" filepath="$PROJECT_DIR$/.idea/cloud2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider/payment8001/payment8001.iml" filepath="$PROJECT_DIR$/cloud-provider/payment8001/payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider/stock9001/stock9001.iml" filepath="$PROJECT_DIR$/cloud-provider/stock9001/stock9001.iml" />
+    </modules>
+  </component>
+</project>

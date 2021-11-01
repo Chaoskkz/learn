@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-config-client3377" />
+        <module name="cloud-api-common" />
+        <module name="cloud-customer-order81" />
+        <module name="payment8001" />
+        <module name="stock9001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="cloud-api-common" target="1.8" />
+      <module name="cloud-config-client3377" target="1.8" />
+      <module name="cloud-customer-order81" target="1.8" />
+      <module name="cloud-provider" target="1.8" />
+      <module name="cloud2021" target="1.8" />
+      <module name="payment8001" target="1.8" />
+      <module name="stock9001" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
